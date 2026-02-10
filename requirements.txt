@@ -1,0 +1,10 @@
+vllm
+openai_harmony
+transformers==4.57.6
+torch-c-dlpack-ext
+torchvision
+pillow
+tqdm
+torch
+kernels
+accelerate
